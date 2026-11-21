@@ -1,0 +1,17 @@
+{
+  "name": "vanator-license-server",
+  "version": "1.0.0",
+  "description": "Zero-dependency Discord ID & License Key Management Server for Vanator Tweak",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "vanator",
+    "license",
+    "keyauth",
+    "fivem"
+  ],
+  "author": "Vanator Core",
+  "license": "MIT"
+}
